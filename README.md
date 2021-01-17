@@ -39,4 +39,4 @@ For more information on how to use these functions see code description.
 
 Here are simple word vectors trained on all the utterances from the 2020 parliament proceedings.
 
-![alt text](https://github.com/hplisiecki/Parliament/commit/2ba00f41573fd14616138c64042dcdbfad788e4a)
+![alt text](https://github.com/hplisiecki/Parliament/blob/2ba00f41573fd14616138c64042dcdbfad788e4a/Screenshot%202021-01-17%20at%2013.25.17.png)
