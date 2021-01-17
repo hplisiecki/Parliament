@@ -34,3 +34,9 @@ The class includes the following functions (sorted alphabetically) :
 - voices -> parses the current pdf file for utterances made by the politician that is currently stored in the cache
 
 For more information on how to use these functions see code description.
+
+# Word Vectors
+
+Here are simple word vectors trained on all the utterances from the 2020 parliament proceedings.
+
+https://github.com/hplisiecki/Parliament/commit/2ba00f41573fd14616138c64042dcdbfad788e4a
