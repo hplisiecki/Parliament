@@ -1,11 +1,13 @@
 # Parliament
-Python script that scrapes the website of the Polish government for pdfs with the audiodescriptions of parliament proceesings. It sorts the text according to the author of the statement.
+Python script that scrapes the website of the Polish government for pdfs with the audiodescriptions of parliament proceedings. It sorts the text according to the author of the statement.
 
 
 This code can be run as a whole or used in bits via the python console.
 
 In order to run it, the "parliament" file with the "repository" subfile has to be downloaded. 
 It's directory should be passed to the class in order to initialize it
+
+# Code Description
 
 Class Parliament -> Main class of the project. Initialisation creates the required file infrastructure by itself. All that is needed for it to run is to 
 download the Parliament folder, with the repository inside and pass the directory in which it was nested to the class initialiser.
