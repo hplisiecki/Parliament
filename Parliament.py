@@ -54,7 +54,7 @@ def review(name):
         try:
             print(name[int(curr)])  # Tries to print the utterance under the current number
 
-        except:                     # If the list is shorter than the called - prints the list's length
+        except:                     # If the list is shorter than the called number - prints the list's length
             print(f'Out of reach. The max is {len(name)-1}')
 
 
