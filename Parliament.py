@@ -44,7 +44,7 @@ def review(name):
 
         if curr == 'delete':    # delete utterance
             curr= input()
-            del orationes[curr]
+            del name[curr]
             continue
 
         if curr == 'len':       # See how many utterances are in the list
