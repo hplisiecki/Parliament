@@ -1,4 +1,7 @@
 # Parliament
+
+(solved issue where the code created redundant folders in the init of the parliament class)
+
 Python script that scrapes the website of the Polish government for pdfs with the audiodescriptions of parliament proceedings. It sorts the text according to the author of the statement.
 
 
