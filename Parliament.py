@@ -100,14 +100,14 @@ class Parliament:
         try:
             os.mkdir(path + 'parliament' + '/html')
             os.mkdir(path + 'parliament' + '/txt')
-            os.mkdir(path + 'parliament' + 'pis')
-            os.mkdir(path + 'parliament' + 'ko')
-            os.mkdir(path + 'parliament' + 'psl')                  #   Tries to create folders
-            os.mkdir(path + 'parliament' + 'lewica')
-            os.mkdir(path + 'parliament' + 'konfederacja')
-            os.mkdir(path + 'parliament' + 'mn')
-            os.mkdir(path + 'parliament' + 'rest')
-            os.mkdir(path + 'parliament' + 'savedata')
+            os.mkdir(path + 'parliament' + '/pis')
+            os.mkdir(path + 'parliament' + '/ko')
+            os.mkdir(path + 'parliament' + '/psl')                  #   Tries to create folders
+            os.mkdir(path + 'parliament' + '/lewica')
+            os.mkdir(path + 'parliament' + '/konfederacja')
+            os.mkdir(path + 'parliament' + '/mn')
+            os.mkdir(path + 'parliament' + '/rest')
+            os.mkdir(path + 'parliament' + '/savedata')
 
         except:                                              #   Does not create folders if they were already created
             pass
