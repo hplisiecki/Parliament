@@ -13,7 +13,7 @@ Class Parliament -> Main class of the project. Initialisation creates the requir
 download the Parliament folder, with the repository inside and pass the directory in which it was nested to the class initialiser.
 The class includes the following functions (sorted alphabetically) :
 
-- checker -> find the politician you would like to search for and adds him to the cache
+- checker -> finds the politician you would like to search for and adds him to the cache
 
 - convert_to_html -> converts to html (utility)
 
