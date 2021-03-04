@@ -47,5 +47,4 @@ They are not lemmatized on purpose.
 
 ![alt text](https://github.com/hplisiecki/Parliament/blob/2ba00f41573fd14616138c64042dcdbfad788e4a/Screenshot%202021-01-17%20at%2013.25.17.png)
 
-The code has one flaw - it does not recognize the difference between politicians that have the same surname. 
-This, however, I can easily fix if you accept my application.
+
